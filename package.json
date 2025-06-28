@@ -1,7 +1,7 @@
 {
   "name": "webhook-whatsapp",
   "version": "1.0.0",
-  "description": "Webhook para recibir mensajes de WhatsApp",
+  "description": "Webhook para recibir mensajes de WhatsApp y responder automáticamente.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
